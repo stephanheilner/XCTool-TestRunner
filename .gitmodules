@@ -1,0 +1,3 @@
+[submodule "Vendor/Swiftification"]
+	path = Vendor/Swiftification
+	url = https://github.com/CrossWaterBridge/Swiftification.git
